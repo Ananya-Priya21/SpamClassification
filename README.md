@@ -1,6 +1,6 @@
-# Email Spam Classification using NLP
+# SMS Spam Classification using NLP
 ## Overview
-This project is an Email Spam Classification System built using Machine Learning and Natural Language Processing (NLP). The system classifies emails/messages as **Spam** or **Not Spam**.
+This project is an SMS Spam Classification System built using Machine Learning and Natural Language Processing (NLP). The system classifies emails/messages as **Spam** or **Not Spam**.
 The model is trained using a labeled dataset and uses text vectorization techniques along with the Naive Bayes algorithm for prediction.
 
 ## Features
