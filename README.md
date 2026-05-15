@@ -37,9 +37,9 @@ Dataset file:
 
 ## Project Structure
 ```bash
-├── app.py
-├── spam.csv
 ├── README.md
+├── SpamDetector.py
+├── spam.csv
 ```
 
 ## Sample Prediction
